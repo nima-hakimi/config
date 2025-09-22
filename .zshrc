@@ -122,7 +122,6 @@ alias gf="git fetch"
 alias gcl="git clone"
 # Other useful Aliases
 alias zshconfig="code ~/.zshrc"
-alias utbetaling="code ~/projects/tms-utbetalingsoversikt-frontend"
 # Github Aliases
 alias ghb="gh browse"
 alias ghpr="gh pr create --title"
